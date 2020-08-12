@@ -5,6 +5,7 @@
     "backbone": "~1.1.2",
     "underscore": "~1.6.0",
     "jquery-migrate": "~1.2.1",
+    "sequelize": "^5.21.6",
     "bootstrap": "~1.2.1",
     "react-router": "~1.2.1",
     "qunit": "~1.14.0",
